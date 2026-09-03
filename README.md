@@ -35,6 +35,14 @@
 
 ---
 
+## 📄 Licença
+
+O código-fonte deste projeto está distribuído sob a licença **MIT**. Consulte o arquivo `LICENSE` para mais informações.
+
+<p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
+
+---
+
 ## 📬 Contato
 
 GiuTP — [github.com/GiuTP](https://github.com/GiuTP)
